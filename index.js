@@ -8,7 +8,7 @@ const students = require('./students.json');
 const app = express();
 
 app.use( session({
-  secret: '@nyth!ng y0u w@nT',
+  secret: 'lldddssssawcbdkw234',
   resave: false,
   saveUninitialized: false
 }));
